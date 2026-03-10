@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import instance from '../../axios';
+import instance from '../axios';
 import { SearchBar } from '../search/SearchBar';
 import styles from './Header.module.css';
 import toast from 'react-hot-toast';
