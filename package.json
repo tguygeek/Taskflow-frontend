@@ -19,7 +19,8 @@
     "react-dom": "^19.1.0",
     "react-hot-toast": "^2.6.0",
     "react-router-dom": "^7.6.3",
-    "recharts": "^3.7.0"
+    "recharts": "^3.7.0",
+    "vercel": "^50.28.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.29.0",
